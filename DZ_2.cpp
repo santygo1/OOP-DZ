@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//Вариант 11
+#include <iostream>
 
 using namespace std;
 
