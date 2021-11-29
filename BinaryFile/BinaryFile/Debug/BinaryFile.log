@@ -1,0 +1,3 @@
+﻿  BinaryFile.cpp
+C:\Users\Danil\source\repos\BinaryFile\BinaryFile\BinaryFile.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+  BinaryFile.vcxproj -> C:\Users\Danil\source\repos\BinaryFile\Debug\BinaryFile.exe
